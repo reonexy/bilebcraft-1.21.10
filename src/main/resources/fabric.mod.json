@@ -9,7 +9,7 @@
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/reonexy/bilebcraft-1.21.10"
 	},
 	"license": "MIT",
 	"icon": "assets/bilebcraft/icon.png",

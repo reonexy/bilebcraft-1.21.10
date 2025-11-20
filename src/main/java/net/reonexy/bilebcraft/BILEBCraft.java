@@ -16,6 +16,5 @@ public class BILEBCraft implements ModInitializer {
 	@Override
 	public void onInitialize() {
 
-        );
 	}
 }
